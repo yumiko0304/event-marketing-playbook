@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26930085/README.md)
+
 # 线下活动实操手册
 
 一套面向法律行业线下及混合活动的结构化方法资料，覆盖策划、执行、传播、转化与复盘。
