@@ -1,0 +1,4 @@
+interface:
+  display_name: "线下活动实操手册"
+  short_description: "帮助策划、执行、传播与复盘法律行业线下及混合活动"
+  default_prompt: "使用 $event-ops-playbook 帮我设计、执行并复盘一场法律行业线下活动。"
