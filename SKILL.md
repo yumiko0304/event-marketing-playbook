@@ -1,4 +1,8 @@
 
+name: event-ops-playbook
+description: 面向法律行业活动的策划、执行、传播、转化与复盘方法手册。
+---
+
 # 线下活动实操手册
 
 ## 概览
